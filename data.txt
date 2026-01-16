@@ -1,2 +1,3 @@
 first demo file
   created in github rep!!
+learning linux command also
